@@ -1,11 +1,9 @@
 
-### Hi there, I'm Basant - Hussein 👋
 
+## A Data Scientist!!
 
-## I'm a Data Scientist!!
+- ⚡ Passionate about data, working with it and learning
 
-- ⚡ objective: A computer science graduate, passionate about data and working with it
-- 🌱 I’m currently working on Data science
 
 ### Connect with me:
 
